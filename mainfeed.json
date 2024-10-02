@@ -4,403 +4,147 @@
   "videos": [
     {
       "id": "1",
-      "username": "user1",
+      "username": "JohnDoe",
       "likes": 120,
-      "title": "This is Video Title 1",
-      "thumbnailUrl": "https://example.com/thumbnail1.jpg",
-      "videoUrl": "https://example.com/video1.mp4"
+      "title": "Exploring the Wonders of Nature",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "2",
-      "username": "user2",
-      "likes": 45,
-      "title": "This is Video Title 2",
-      "thumbnailUrl": "https://example.com/thumbnail2.jpg",
-      "videoUrl": "https://example.com/video2.mp4"
+      "username": "JaneSmith",
+      "likes": 200,
+      "title": "A Day in the Life of a Digital Nomad",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "3",
-      "username": "user3",
-      "likes": 230,
-      "title": "This is Video Title 3",
-      "thumbnailUrl": "https://example.com/thumbnail3.jpg",
-      "videoUrl": "https://example.com/video3.mp4"
+      "username": "MichaelBrown",
+      "likes": 310,
+      "title": "Top 10 Travel Destinations for 2024",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "4",
-      "username": "user4",
-      "likes": 15,
-      "title": "This is Video Title 4",
-      "thumbnailUrl": "https://example.com/thumbnail4.jpg",
-      "videoUrl": "https://example.com/video4.mp4"
+      "username": "SarahLee",
+      "likes": 75,
+      "title": "Cooking with Sarah: Easy Pasta Recipes",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "5",
-      "username": "user5",
-      "likes": 89,
-      "title": "This is Video Title 5",
-      "thumbnailUrl": "https://example.com/thumbnail5.jpg",
-      "videoUrl": "https://example.com/video5.mp4"
+      "username": "ChrisJohnson",
+      "likes": 45,
+      "title": "Fitness Tips for Beginners",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "6",
-      "username": "user6",
-      "likes": 315,
-      "title": "This is Video Title 6",
-      "thumbnailUrl": "https://example.com/thumbnail6.jpg",
-      "videoUrl": "https://example.com/video6.mp4"
+      "username": "EmilyWilson",
+      "likes": 410,
+      "title": "DIY Home Decor Ideas on a Budget",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "7",
-      "username": "user7",
-      "likes": 67,
-      "title": "This is Video Title 7",
-      "thumbnailUrl": "https://example.com/thumbnail7.jpg",
-      "videoUrl": "https://example.com/video7.mp4"
+      "username": "DavidClark",
+      "likes": 185,
+      "title": "Understanding Cryptocurrency Basics",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "8",
-      "username": "user8",
-      "likes": 500,
-      "title": "This is Video Title 8",
-      "thumbnailUrl": "https://example.com/thumbnail8.jpg",
-      "videoUrl": "https://example.com/video8.mp4"
+      "username": "OliviaMartinez",
+      "likes": 350,
+      "title": "Meditation Techniques for Relaxation",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "9",
-      "username": "user9",
-      "likes": 27,
-      "title": "This is Video Title 9",
-      "thumbnailUrl": "https://example.com/thumbnail9.jpg",
-      "videoUrl": "https://example.com/video9.mp4"
+      "username": "DanielGarcia",
+      "likes": 222,
+      "title": "Tech Gadgets You Need in 2024",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "10",
-      "username": "user10",
-      "likes": 154,
-      "title": "This is Video Title 10",
-      "thumbnailUrl": "https://example.com/thumbnail10.jpg",
-      "videoUrl": "https://example.com/video10.mp4"
+      "username": "SophiaRoberts",
+      "likes": 305,
+      "title": "Yoga for Beginners - Full Body Stretch",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "11",
-      "username": "user11",
-      "likes": 180,
-      "title": "This is Video Title 11",
-      "thumbnailUrl": "https://example.com/thumbnail11.jpg",
-      "videoUrl": "https://example.com/video11.mp4"
+      "username": "JamesHarris",
+      "likes": 95,
+      "title": "Photography Tips for Capturing Landscapes",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "12",
-      "username": "user12",
-      "likes": 76,
-      "title": "This is Video Title 12",
-      "thumbnailUrl": "https://example.com/thumbnail12.jpg",
-      "videoUrl": "https://example.com/video12.mp4"
+      "username": "CharlotteLopez",
+      "likes": 460,
+      "title": "How to Stay Productive Working from Home",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "13",
-      "username": "user13",
-      "likes": 299,
-      "title": "This is Video Title 13",
-      "thumbnailUrl": "https://example.com/thumbnail13.jpg",
-      "videoUrl": "https://example.com/video13.mp4"
+      "username": "EthanMoore",
+      "likes": 78,
+      "title": "Building a Personal Brand Online",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "14",
-      "username": "user14",
-      "likes": 98,
-      "title": "This is Video Title 14",
-      "thumbnailUrl": "https://example.com/thumbnail14.jpg",
-      "videoUrl": "https://example.com/video14.mp4"
+      "username": "AmeliaTaylor",
+      "likes": 270,
+      "title": "Creating Art with Acrylic Paints",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "15",
-      "username": "user15",
-      "likes": 210,
-      "title": "This is Video Title 15",
-      "thumbnailUrl": "https://example.com/thumbnail15.jpg",
-      "videoUrl": "https://example.com/video15.mp4"
+      "username": "HenryAnderson",
+      "likes": 185,
+      "title": "How to Get Started with Gardening",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "16",
-      "username": "user16",
-      "likes": 43,
-      "title": "This is Video Title 16",
-      "thumbnailUrl": "https://example.com/thumbnail16.jpg",
-      "videoUrl": "https://example.com/video16.mp4"
+      "username": "MiaWhite",
+      "likes": 320,
+      "title": "Mastering the Art of Public Speaking",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "17",
-      "username": "user17",
-      "likes": 77,
-      "title": "This is Video Title 17",
-      "thumbnailUrl": "https://example.com/thumbnail17.jpg",
-      "videoUrl": "https://example.com/video17.mp4"
+      "username": "WilliamKing",
+      "likes": 290,
+      "title": "Tips for Better Time Management",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": "18",
-      "username": "user18",
-      "likes": 362,
-      "title": "This is Video Title 18",
-      "thumbnailUrl": "https://example.com/thumbnail18.jpg",
-      "videoUrl": "https://example.com/video18.mp4"
-    },
-    {
-      "id": "19",
-      "username": "user19",
-      "likes": 65,
-      "title": "This is Video Title 19",
-      "thumbnailUrl": "https://example.com/thumbnail19.jpg",
-      "videoUrl": "https://example.com/video19.mp4"
-    },
-    {
-      "id": "20",
-      "username": "user20",
-      "likes": 345,
-      "title": "This is Video Title 20",
-      "thumbnailUrl": "https://example.com/thumbnail20.jpg",
-      "videoUrl": "https://example.com/video20.mp4"
-    },
-    {
-      "id": "21",
-      "username": "user21",
-      "likes": 123,
-      "title": "This is Video Title 21",
-      "thumbnailUrl": "https://example.com/thumbnail21.jpg",
-      "videoUrl": "https://example.com/video21.mp4"
-    },
-    {
-      "id": "22",
-      "username": "user22",
-      "likes": 90,
-      "title": "This is Video Title 22",
-      "thumbnailUrl": "https://example.com/thumbnail22.jpg",
-      "videoUrl": "https://example.com/video22.mp4"
-    },
-    {
-      "id": "23",
-      "username": "user23",
-      "likes": 411,
-      "title": "This is Video Title 23",
-      "thumbnailUrl": "https://example.com/thumbnail23.jpg",
-      "videoUrl": "https://example.com/video23.mp4"
-    },
-    {
-      "id": "24",
-      "username": "user24",
-      "likes": 250,
-      "title": "This is Video Title 24",
-      "thumbnailUrl": "https://example.com/thumbnail24.jpg",
-      "videoUrl": "https://example.com/video24.mp4"
-    },
-    {
-      "id": "25",
-      "username": "user25",
-      "likes": 132,
-      "title": "This is Video Title 25",
-      "thumbnailUrl": "https://example.com/thumbnail25.jpg",
-      "videoUrl": "https://example.com/video25.mp4"
-    },
-    {
-      "id": "26",
-      "username": "user26",
-      "likes": 55,
-      "title": "This is Video Title 26",
-      "thumbnailUrl": "https://example.com/thumbnail26.jpg",
-      "videoUrl": "https://example.com/video26.mp4"
-    },
-    {
-      "id": "27",
-      "username": "user27",
-      "likes": 350,
-      "title": "This is Video Title 27",
-      "thumbnailUrl": "https://example.com/thumbnail27.jpg",
-      "videoUrl": "https://example.com/video27.mp4"
-    },
-    {
-      "id": "28",
-      "username": "user28",
-      "likes": 287,
-      "title": "This is Video Title 28",
-      "thumbnailUrl": "https://example.com/thumbnail28.jpg",
-      "videoUrl": "https://example.com/video28.mp4"
-    },
-    {
-      "id": "29",
-      "username": "user29",
-      "likes": 199,
-      "title": "This is Video Title 29",
-      "thumbnailUrl": "https://example.com/thumbnail29.jpg",
-      "videoUrl": "https://example.com/video29.mp4"
-    },
-    {
-      "id": "30",
-      "username": "user30",
-      "likes": 305,
-      "title": "This is Video Title 30",
-      "thumbnailUrl": "https://example.com/thumbnail30.jpg",
-      "videoUrl": "https://example.com/video30.mp4"
-    },
-    {
-      "id": "31",
-      "username": "user31",
-      "likes": 95,
-      "title": "This is Video Title 31",
-      "thumbnailUrl": "https://example.com/thumbnail31.jpg",
-      "videoUrl": "https://example.com/video31.mp4"
-    },
-    {
-      "id": "32",
-      "username": "user32",
-      "likes": 460,
-      "title": "This is Video Title 32",
-      "thumbnailUrl": "https://example.com/thumbnail32.jpg",
-      "videoUrl": "https://example.com/video32.mp4"
-    },
-    {
-      "id": "33",
-      "username": "user33",
-      "likes": 78,
-      "title": "This is Video Title 33",
-      "thumbnailUrl": "https://example.com/thumbnail33.jpg",
-      "videoUrl": "https://example.com/video33.mp4"
-    },
-    {
-      "id": "34",
-      "username": "user34",
-      "likes": 270,
-      "title": "This is Video Title 34",
-      "thumbnailUrl": "https://example.com/thumbnail34.jpg",
-      "videoUrl": "https://example.com/video34.mp4"
-    },
-    {
-      "id": "35",
-      "username": "user35",
-      "likes": 185,
-      "title": "This is Video Title 35",
-      "thumbnailUrl": "https://example.com/thumbnail35.jpg",
-      "videoUrl": "https://example.com/video35.mp4"
-    },
-    {
-      "id": "36",
-      "username": "user36",
-      "likes": 410,
-      "title": "This is Video Title 36",
-      "thumbnailUrl": "https://example.com/thumbnail36.jpg",
-      "videoUrl": "https://example.com/video36.mp4"
-    },
-    {
-      "id": "37",
-      "username": "user37",
-      "likes": 212,
-      "title": "This is Video Title 37",
-      "thumbnailUrl": "https://example.com/thumbnail37.jpg",
-      "videoUrl": "https://example.com/video37.mp4"
-    },
-    {
-      "id": "38",
-      "username": "user38",
-      "likes": 99,
-      "title": "This is Video Title 38",
-      "thumbnailUrl": "https://example.com/thumbnail38.jpg",
-      "videoUrl": "https://example.com/video38.mp4"
-    },
-    {
-      "id": "39",
-      "username": "user39",
-      "likes": 333,
-      "title": "This is Video Title 39",
-      "thumbnailUrl": "https://example.com/thumbnail39.jpg",
-      "videoUrl": "https://example.com/video39.mp4"
-    },
-    {
-      "id": "40",
-      "username": "user40",
-      "likes": 82,
-      "title": "This is Video Title 40",
-      "thumbnailUrl": "https://example.com/thumbnail40.jpg",
-      "videoUrl": "https://example.com/video40.mp4"
-    },
-    {
-      "id": "41",
-      "username": "user41",
-      "likes": 118,
-      "title": "This is Video Title 41",
-      "thumbnailUrl": "https://example.com/thumbnail41.jpg",
-      "videoUrl": "https://example.com/video41.mp4"
-    },
-    {
-      "id": "42",
-      "username": "user42",
-      "likes": 455,
-      "title": "This is Video Title 42",
-      "thumbnailUrl": "https://example.com/thumbnail42.jpg",
-      "videoUrl": "https://example.com/video42.mp4"
-    },
-    {
-      "id": "43",
-      "username": "user43",
-      "likes": 287,
-      "title": "This is Video Title 43",
-      "thumbnailUrl": "https://example.com/thumbnail43.jpg",
-      "videoUrl": "https://example.com/video43.mp4"
-    },
-    {
-      "id": "44",
-      "username": "user44",
-      "likes": 197,
-      "title": "This is Video Title 44",
-      "thumbnailUrl": "https://example.com/thumbnail44.jpg",
-      "videoUrl": "https://example.com/video44.mp4"
-    },
-    {
-      "id": "45",
-      "username": "user45",
-      "likes": 360,
-      "title": "This is Video Title 45",
-      "thumbnailUrl": "https://example.com/thumbnail45.jpg",
-      "videoUrl": "https://example.com/video45.mp4"
-    },
-    {
-      "id": "46",
-      "username": "user46",
-      "likes": 199,
-      "title": "This is Video Title 46",
-      "thumbnailUrl": "https://example.com/thumbnail46.jpg",
-      "videoUrl": "https://example.com/video46.mp4"
-    },
-    {
-      "id": "47",
-      "username": "user47",
-      "likes": 57,
-      "title": "This is Video Title 47",
-      "thumbnailUrl": "https://example.com/thumbnail47.jpg",
-      "videoUrl": "https://example.com/video47.mp4"
-    },
-    {
-      "id": "48",
-      "username": "user48",
-      "likes": 500,
-      "title": "This is Video Title 48",
-      "thumbnailUrl": "https://example.com/thumbnail48.jpg",
-      "videoUrl": "https://example.com/video48.mp4"
-    },
-    {
-      "id": "49",
-      "username": "user49",
-      "likes": 101,
-      "title": "This is Video Title 49",
-      "thumbnailUrl": "https://example.com/thumbnail49.jpg",
-      "videoUrl": "https://example.com/video49.mp4"
-    },
-    {
-      "id": "50",
-      "username": "user50",
-      "likes": 299,
-      "title": "This is Video Title 50",
-      "thumbnailUrl": "https://example.com/thumbnail50.jpg",
-      "videoUrl": "https://example.com/video50.mp4"
+      "username": "EllaHall",
+      "likes": 490,
+      "title": "Traveling Europe on a Budget",
+      "thumbnailUrl": "https://images.pexels.com/photos/368260/pexels-photo-368260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     }
   ]
 }
